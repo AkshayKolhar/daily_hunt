@@ -4,11 +4,10 @@
 this is my 30 days python journey , from basics to little advanced in python 
 (starting my journey)
 
-'''python
+
 day1:<br>
-i completed mainly :<br>
-        Variables<br>
-        Data types<br>
-        User input<br>
-        Printing output<br>
-'''
+completed mainly :<br>
+&emsp;&emsp;Variables<br>
+&emsp;&emsp;Data types<br>
+&emsp;&emsp;User input<br>
+&emsp;&emsp;Printing output<br>
