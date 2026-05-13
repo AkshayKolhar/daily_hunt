@@ -1,9 +1,9 @@
-#day 1 (01)
+#day 1 
 import datetime 
 date=datetime.date.today()
 time=datetime.datetime.now().time()
 
-
+# q1:printing the age , by taking input name and age.
 def det(name,age):
     print(f"Hello {name}, you are {age} years old!! ")
 def detials():
@@ -16,7 +16,7 @@ def detials():
         else:
             print("Please enter a valid age!!")
 
-#day 1 (02)
+#q2: calculating the bill for electricity by taking input house no and units consumed.
 
 class bill:
     def __init__(self,HN,units):
